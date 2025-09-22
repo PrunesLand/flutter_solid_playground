@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-import 'package:solid_principles_app/screens/dependency_inversion_principle_screen.dart';
-import 'package:solid_principles_app/screens/interface_segregation_principle_screen.dart';
-import 'package:solid_principles_app/screens/liskov_substitution_principle_screen.dart';
-import 'package:solid_principles_app/screens/open_closed_principle_screen.dart';
-import 'package:solid_principles_app/screens/single_responsibility_principle_screen.dart';
+import 'package:flutter_solid_playground/screens/dependency_inversion_principle_screen.dart';
+import 'package:flutter_solid_playground/screens/interface_segregation_principle_screen.dart';
+import 'package:flutter_solid_playground/screens/liskov_substitution_principle_screen.dart';
+import 'package:flutter_solid_playground/screens/open_closed_principle_screen.dart';
+import 'package:flutter_solid_playground/screens/single_responsibility_principle_screen.dart';
 
 void main() {
   runApp(const MyApp());
