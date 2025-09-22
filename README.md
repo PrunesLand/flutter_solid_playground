@@ -21,13 +21,16 @@ The application consists of a main screen with a list of the five SOLID principl
 3.  A code example demonstrating a "good" approach that adheres to the principle.
 4.  Buttons to execute the code and see the results.
 
-All the example code is located in the `lib/screens` directory inside the `solid_principles_app` directory.
+All the example code is located in the `lib/screens` directory.
 
 ## How to Run the App
 
 1.  **Ensure you have Flutter installed.** You can find installation instructions on the [official Flutter website](https://flutter.dev/docs/get-started/install).
-2.  **Clone the repository.**
-3.  **Navigate to the `solid_principles_app` directory.**
+2.  **Clone the repository and `cd` into it.**
+3.  **Get the dependencies:**
+    ```bash
+    flutter pub get
+    ```
 4.  **Run the app:**
     ```bash
     flutter run
