@@ -1,4 +1,4 @@
-name: solid_principles_app
+name: flutter_solid_playground
 description: A new Flutter project.
 
 publish_to: 'none'
@@ -18,7 +18,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_lints: ^2.0.0
-
 flutter:
   uses-material-design: true
+  
+  flutter_lints: ^2.0.0

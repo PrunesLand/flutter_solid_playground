@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'package:solid_principles_app/screens/dependency_inversion_principle_screen.dart';
 import 'package:solid_principles_app/screens/interface_segregation_principle_screen.dart';
 import 'package:solid_principles_app/screens/liskov_substitution_principle_screen.dart';
@@ -11,6 +12,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
+
 
   @override
   Widget build(BuildContext context) {
